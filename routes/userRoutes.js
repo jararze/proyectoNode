@@ -7,7 +7,7 @@ const router = express.Router();
 
 
 
-router.post('/register', createUser); // Verifica que 'createUser' esté definido
+router.post('/users', createUser); // Verifica que 'createUser' esté definido
 router.post('/login', loginUser); // Verifica que 'loginUser' esté definido
 router.get('/users', getUsers); // Verifica que 'getUsers' esté definido
 
