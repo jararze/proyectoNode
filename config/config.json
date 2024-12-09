@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "postgresql://root:RBOai7bqZWxkDGi1YYq2T3AmEuPMPAc4@dpg-ctbk6om8ii6s739s35dg-a/recuperatorio_y61t",
+    "database": "recuperatorio_y61t",
+    "host": "dpg-ctbk6om8ii6s739s35dg-a",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "root",
+    "password": "postgresql://root:RBOai7bqZWxkDGi1YYq2T3AmEuPMPAc4@dpg-ctbk6om8ii6s739s35dg-a/recuperatorio_y61t",
+    "database": "recuperatorio_y61t",
+    "host": "dpg-ctbk6om8ii6s739s35dg-a",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "root",
+    "password": "postgresql://root:RBOai7bqZWxkDGi1YYq2T3AmEuPMPAc4@dpg-ctbk6om8ii6s739s35dg-a/recuperatorio_y61t",
+    "database": "recuperatorio_y61t",
+    "host": "dpg-ctbk6om8ii6s739s35dg-a",
+    "dialect": "postgres"
+  }
+}
